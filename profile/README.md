@@ -11,7 +11,7 @@
 
 ## Tabla de Contenido
 
-- [Introduction](#introduccion)
+- [Introduccion](#introduccion)
 - [Lenguajes](#lenguajes)
 - [Sprints](#sprints)
 - [Integrantes](#team)
