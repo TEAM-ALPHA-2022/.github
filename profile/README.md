@@ -33,6 +33,12 @@ Los siguientes lenguajes y herramientas se van a utilizar en el desarrollo del p
 * `OAuth`
 * `Heroku`
 
+## Scrum Board (Jira)
+
+En el link se evidenciara el tablero con las tareas realizadas y a realizar para cada Sprint:
+
+* [Scrum Board](https://jira.external-share.com/issue/28325458-5cf8-4120-99cd-f15247daed48?groupBy=EPIC)
+
 ## Sprints
 <p align="center">
   <a>
