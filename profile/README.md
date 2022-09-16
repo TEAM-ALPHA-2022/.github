@@ -50,6 +50,7 @@ En el link se evidenciara el tablero con las tareas realizadas y a realizar para
 - [Sprint 1](https://github.com/TEAM-ALPHA-2022/Sprint1)
 - [Sprint 2](https://github.com/TEAM-ALPHA-2022/Sprint2)
 - [Sprint 3](https://github.com/TEAM-ALPHA-2022/Sprint-3)
+- [Sprint 4](https://github.com/TEAM-ALPHA-2022/Sprint-4)
 
 ## Team
 
